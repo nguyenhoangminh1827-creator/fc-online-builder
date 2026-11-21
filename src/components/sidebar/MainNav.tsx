@@ -20,12 +20,17 @@ export function MainNav() {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-emerald-500/15 text-emerald-400 ring-1 ring-emerald-500/30">
             <Scale size={20} />
           </div>
-          <div>
-            <span className="text-base font-black tracking-tight text-white">
-              FCO <span className="text-emerald-400">BUILDER</span>
-            </span>
-            <span className="hidden sm:inline-block ml-2 rounded bg-zinc-800 px-1.5 py-0.5 text-[10px] font-bold uppercase text-zinc-400">
-              Cân lương 270
+          <div className="flex flex-col">
+            <div className="flex items-center gap-2">
+              <span className="text-base font-black tracking-tight text-white">
+                FCO <span className="text-emerald-400">BUILDER</span>
+              </span>
+              <span className="hidden sm:inline-block rounded bg-zinc-800 px-1.5 py-0.5 text-[10px] font-bold uppercase text-zinc-400">
+                Cân lương 270
+              </span>
+            </div>
+            <span className="text-[11px] font-medium text-zinc-400">
+              Phát triển bởi <strong className="text-emerald-400">Hoàng Minh</strong>
             </span>
           </div>
         </Link>
