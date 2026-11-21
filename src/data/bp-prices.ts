@@ -31,6 +31,9 @@ export const BASE_BP_PRICES: Readonly<Record<string, number>> = {
   'vn-quang-hai': 400_000_000,
   'vn-van-hau': 150_000_000,
   'vn-tien-linh': 250_000_000,
+  '24ts-cristiano-ronaldo': 45_000_000_000,
+  '24ts-messi': 48_000_000_000,
+  'vn-do-mixi': 99_000_000_000,
 };
 
 /** Hệ số nhân giá theo cấp cường hoá (placeholder). */
