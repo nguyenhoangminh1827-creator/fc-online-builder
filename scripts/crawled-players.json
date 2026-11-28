@@ -1,0 +1,4225 @@
+[
+  {
+    "id": "icon-pel--1",
+    "name": "Pelé",
+    "shortName": "PELÉ",
+    "seasonCode": "ICON",
+    "ovr": 115,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 115
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 113,
+      "shooting": 113,
+      "passing": 112,
+      "dribbling": 114,
+      "defending": 55,
+      "physical": 111
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/kmlmrwrp.png?20260720"
+  },
+  {
+    "id": "icon-d-maradona-2",
+    "name": "D. Maradona",
+    "shortName": "D. MARADONA",
+    "seasonCode": "ICON",
+    "ovr": 115,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 115
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 113,
+      "shooting": 113,
+      "passing": 112,
+      "dribbling": 114,
+      "defending": 55,
+      "physical": 111
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdwopok.png?20260720"
+  },
+  {
+    "id": "icon-j-cruyff-3",
+    "name": "J. Cruyff",
+    "shortName": "J. CRUYFF",
+    "seasonCode": "ICON",
+    "ovr": 114,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 114
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 112,
+      "shooting": 112,
+      "passing": 111,
+      "dribbling": 113,
+      "defending": 55,
+      "physical": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/wbybvavl.png?20260720"
+  },
+  {
+    "id": "icon-f-beckenbauer-4",
+    "name": "F. Beckenbauer",
+    "shortName": "F. BECKENBAUER",
+    "seasonCode": "ICON",
+    "ovr": 114,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 114
+      }
+    ],
+    "salary": 30,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 112,
+      "shooting": 112,
+      "passing": 111,
+      "dribbling": 113,
+      "defending": 112,
+      "physical": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/mwywwgro.png?20260720"
+  },
+  {
+    "id": "icon-z-zidane-5",
+    "name": "Z. Zidane",
+    "shortName": "Z. ZIDANE",
+    "seasonCode": "ICON",
+    "ovr": 114,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 114
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 112,
+      "shooting": 112,
+      "passing": 111,
+      "dribbling": 113,
+      "defending": 55,
+      "physical": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/yoymobpr.png?20260720"
+  },
+  {
+    "id": "icon-m-van-basten-6",
+    "name": "M. van Basten",
+    "shortName": "M. VAN BASTEN",
+    "seasonCode": "ICON",
+    "ovr": 106,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 106
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 104,
+      "shooting": 104,
+      "passing": 103,
+      "dribbling": 105,
+      "defending": 55,
+      "physical": 102
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwqpraq.png?20260720"
+  },
+  {
+    "id": "icon-ferenc-pusk-s-7",
+    "name": "Ferenc Puskás",
+    "shortName": "F. PUSKÁS",
+    "seasonCode": "ICON",
+    "ovr": 114,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 114
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 112,
+      "shooting": 112,
+      "passing": 111,
+      "dribbling": 113,
+      "defending": 55,
+      "physical": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdyyovk.png?20260720"
+  },
+  {
+    "id": "icon-ronaldo-8",
+    "name": "Ronaldo",
+    "shortName": "RONALDO",
+    "seasonCode": "ICON",
+    "ovr": 128,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 128
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 126,
+      "shooting": 126,
+      "passing": 125,
+      "dribbling": 127,
+      "defending": 55,
+      "physical": 124
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdalybm.png?20260720"
+  },
+  {
+    "id": "icon-l-matth-us-9",
+    "name": "L. Matthäus",
+    "shortName": "L. MATTHÄUS",
+    "seasonCode": "ICON",
+    "ovr": 114,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 114
+      }
+    ],
+    "salary": 34,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 112,
+      "shooting": 112,
+      "passing": 111,
+      "dribbling": 113,
+      "defending": 55,
+      "physical": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/vzbzplna.png?20260720"
+  },
+  {
+    "id": "icon-g-m-ller-10",
+    "name": "G. Müller",
+    "shortName": "G. MÜLLER",
+    "seasonCode": "ICON",
+    "ovr": 114,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 114
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 112,
+      "shooting": 112,
+      "passing": 111,
+      "dribbling": 113,
+      "defending": 55,
+      "physical": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/rzwzrdrk.png?20260720"
+  },
+  {
+    "id": "icon-k-rummenigge-11",
+    "name": "K. Rummenigge",
+    "shortName": "K. RUMMENIGGE",
+    "seasonCode": "ICON",
+    "ovr": 114,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 114
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 112,
+      "shooting": 112,
+      "passing": 111,
+      "dribbling": 113,
+      "defending": 55,
+      "physical": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/qowgwwmk.png?20260720"
+  },
+  {
+    "id": "icon-r-baggio-12",
+    "name": "R. Baggio",
+    "shortName": "R. BAGGIO",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 113
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/rzwozjay.png?20260720"
+  },
+  {
+    "id": "icon-eus-bio-13",
+    "name": "Eusébio",
+    "shortName": "EUSÉBIO",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 113
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/bqwywgmy.png?20260720"
+  },
+  {
+    "id": "icon-garrincha-14",
+    "name": "Garrincha",
+    "shortName": "GARRINCHA",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "RW",
+    "positions": [
+      {
+        "position": "RW",
+        "ovr": 113
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/bqwyqgzk.png?20260720"
+  },
+  {
+    "id": "icon-ronaldinho-15",
+    "name": "Ronaldinho",
+    "shortName": "RONALDINHO",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "LW",
+    "positions": [
+      {
+        "position": "LW",
+        "ovr": 113
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwyoknw.png?20260720"
+  },
+  {
+    "id": "icon-p-maldini-16",
+    "name": "P. Maldini",
+    "shortName": "P. MALDINI",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 113
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 111,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/kmljmybo.png?20260720"
+  },
+  {
+    "id": "icon-xavi-17",
+    "name": "Xavi",
+    "shortName": "XAVI",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 113
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/zzolkbdo.png?20260720"
+  },
+  {
+    "id": "icon-l-yashin-18",
+    "name": "L. Yashin",
+    "shortName": "L. YASHIN",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "GK",
+    "positions": [
+      {
+        "position": "GK",
+        "ovr": 113
+      }
+    ],
+    "salary": 24,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "gk",
+      "diving": 111,
+      "handling": 111,
+      "kicking": 109,
+      "reflexes": 112,
+      "speed": 65,
+      "positioning": 111
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/yoyamypz.png?20260720"
+  },
+  {
+    "id": "icon-g-best-19",
+    "name": "G. Best",
+    "shortName": "G. BEST",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "RW",
+    "positions": [
+      {
+        "position": "RW",
+        "ovr": 113
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwqajop.png?20260720"
+  },
+  {
+    "id": "icon-f-baresi-20",
+    "name": "F. Baresi",
+    "shortName": "F. BARESI",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 113
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 111,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/nwdwwznn.png?20260720"
+  },
+  {
+    "id": "icon-r-gullit-21",
+    "name": "R. Gullit",
+    "shortName": "R. GULLIT",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 113
+      }
+    ],
+    "salary": 29,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/owdwmwnl.png?20260720"
+  },
+  {
+    "id": "icon-jairzinho-22",
+    "name": "Jairzinho",
+    "shortName": "JAIRZINHO",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "RW",
+    "positions": [
+      {
+        "position": "RW",
+        "ovr": 113
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwnvgdg.png?20260720"
+  },
+  {
+    "id": "icon-zico-23",
+    "name": "Zico",
+    "shortName": "ZICO",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 113
+      }
+    ],
+    "salary": 18,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/nwdwwlpv.png?20260720"
+  },
+  {
+    "id": "icon-b-charlton-24",
+    "name": "B. Charlton",
+    "shortName": "B. CHARLTON",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 113
+      }
+    ],
+    "salary": 18,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdynzjp.png?20260720"
+  },
+  {
+    "id": "icon-g-buffon-25",
+    "name": "G. Buffon",
+    "shortName": "G. BUFFON",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "GK",
+    "positions": [
+      {
+        "position": "GK",
+        "ovr": 113
+      }
+    ],
+    "salary": 23,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "gk",
+      "diving": 111,
+      "handling": 111,
+      "kicking": 109,
+      "reflexes": 112,
+      "speed": 65,
+      "positioning": 111
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/wbynbrmd.png?20260720"
+  },
+  {
+    "id": "icon-iniesta-26",
+    "name": "Iniesta",
+    "shortName": "INIESTA",
+    "seasonCode": "ICON",
+    "ovr": 113,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 113
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 111,
+      "shooting": 111,
+      "passing": 110,
+      "dribbling": 112,
+      "defending": 55,
+      "physical": 109
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/qowyonmp.png?20260720"
+  },
+  {
+    "id": "icon-roberto-carlos-27",
+    "name": "Roberto Carlos",
+    "shortName": "R. CARLOS",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "LB",
+    "positions": [
+      {
+        "position": "LB",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 110,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/nwdjworz.png?20260720"
+  },
+  {
+    "id": "icon-d-drogba-28",
+    "name": "D. Drogba",
+    "shortName": "D. DROGBA",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/lmyognzw.png?20260720"
+  },
+  {
+    "id": "icon-a-pirlo-29",
+    "name": "A. Pirlo",
+    "shortName": "A. PIRLO",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/yoymqozm.png?20260720"
+  },
+  {
+    "id": "icon-kak--30",
+    "name": "Kaká",
+    "shortName": "KAKÁ",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/lmyyddqr.png?20260720"
+  },
+  {
+    "id": "icon-h-s-nchez-31",
+    "name": "H. Sánchez",
+    "shortName": "H. SÁNCHEZ",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/lmymmvba.png?20260720"
+  },
+  {
+    "id": "icon-f-rijkaard-32",
+    "name": "F. Rijkaard",
+    "shortName": "F. RIJKAARD",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CDM",
+    "positions": [
+      {
+        "position": "CDM",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 110,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwqjqrv.png?20260720"
+  },
+  {
+    "id": "icon-d-beckham-33",
+    "name": "D. Beckham",
+    "shortName": "D. BECKHAM",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "RM",
+    "positions": [
+      {
+        "position": "RM",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/jmqgmloq.png?20260720"
+  },
+  {
+    "id": "icon-t-henry-34",
+    "name": "T. Henry",
+    "shortName": "T. HENRY",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdaynqv.png?20260720"
+  },
+  {
+    "id": "icon-e-cantona-35",
+    "name": "E. Cantona",
+    "shortName": "E. CANTONA",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwqqlvb.png?20260720"
+  },
+  {
+    "id": "icon-s-eto-o-36",
+    "name": "S. Eto'o",
+    "shortName": "S. ETO'O",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdapgkg.png?20260720"
+  },
+  {
+    "id": "icon-a-nesta-37",
+    "name": "A. Nesta",
+    "shortName": "A. NESTA",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 110,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/pwykwbmj.png?20260720"
+  },
+  {
+    "id": "icon-cafu-38",
+    "name": "Cafu",
+    "shortName": "CAFU",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "RB",
+    "positions": [
+      {
+        "position": "RB",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 110,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/pwykgmwq.png?20260720"
+  },
+  {
+    "id": "icon-casillas-39",
+    "name": "Casillas",
+    "shortName": "CASILLAS",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "GK",
+    "positions": [
+      {
+        "position": "GK",
+        "ovr": 112
+      }
+    ],
+    "salary": 22,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "gk",
+      "diving": 110,
+      "handling": 110,
+      "kicking": 108,
+      "reflexes": 111,
+      "speed": 65,
+      "positioning": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/wbynwzkz.png?20260720"
+  },
+  {
+    "id": "icon-w-rooney-40",
+    "name": "W. Rooney",
+    "shortName": "W. ROONEY",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/jmqgwavw.png?20260720"
+  },
+  {
+    "id": "icon-lu-s-figo-41",
+    "name": "Luís Figo",
+    "shortName": "L. FIGO",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "RW",
+    "positions": [
+      {
+        "position": "RW",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/vzbgrjrz.png?20260720"
+  },
+  {
+    "id": "icon-a-shevchenko-42",
+    "name": "A. Shevchenko",
+    "shortName": "A. SHEVCHENKO",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/wbynjaao.png?20260720"
+  },
+  {
+    "id": "icon-a-shearer-43",
+    "name": "A. Shearer",
+    "shortName": "A. SHEARER",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/owdpwvpq.png?20260720"
+  },
+  {
+    "id": "icon-z-ibrahimovi--44",
+    "name": "Z. Ibrahimović",
+    "shortName": "Z. IBRAHIMOVIĆ",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/bqwmrgom.png?20260720"
+  },
+  {
+    "id": "icon-f-totti-45",
+    "name": "F. Totti",
+    "shortName": "F. TOTTI",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 112
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/vzbgzyzr.png?20260720"
+  },
+  {
+    "id": "icon-o-kahn-46",
+    "name": "O. Kahn",
+    "shortName": "O. KAHN",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "GK",
+    "positions": [
+      {
+        "position": "GK",
+        "ovr": 112
+      }
+    ],
+    "salary": 22,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "gk",
+      "diving": 110,
+      "handling": 110,
+      "kicking": 108,
+      "reflexes": 111,
+      "speed": 65,
+      "positioning": 110
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/pwykwqpy.png?20260720"
+  },
+  {
+    "id": "icon-gabriel-batistuta-47",
+    "name": "Gabriel Batistuta",
+    "shortName": "G. BATISTUTA",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 27,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/wbybkobm.png?20260720"
+  },
+  {
+    "id": "icon-s-ag-ero-48",
+    "name": "S. Agüero",
+    "shortName": "S. AGÜERO",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 112
+      }
+    ],
+    "salary": 29,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/wbybpdgn.png?20260720"
+  },
+  {
+    "id": "icon-r-rivelino-49",
+    "name": "R. Rivelino",
+    "shortName": "R. RIVELINO",
+    "seasonCode": "ICON",
+    "ovr": 112,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 112
+      }
+    ],
+    "salary": 29,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 110,
+      "shooting": 110,
+      "passing": 109,
+      "dribbling": 111,
+      "defending": 55,
+      "physical": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/mwywlkmg.png?20260720"
+  },
+  {
+    "id": "icon-f-cannavaro-50",
+    "name": "F. Cannavaro",
+    "shortName": "F. CANNAVARO",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 111
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/lmyomann.png?20260720"
+  },
+  {
+    "id": "icon-rivaldo-51",
+    "name": "Rivaldo",
+    "shortName": "RIVALDO",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "LW",
+    "positions": [
+      {
+        "position": "LW",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/rzwogrld.png?20260720"
+  },
+  {
+    "id": "icon-ra-l-52",
+    "name": "Raúl",
+    "shortName": "RAÚL",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/gbvzjrrk.png?20260720"
+  },
+  {
+    "id": "icon-a-del-piero-53",
+    "name": "A. Del Piero",
+    "shortName": "A. DEL PIERO",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/qowyopvn.png?20260720"
+  },
+  {
+    "id": "icon-d-bergkamp-54",
+    "name": "D. Bergkamp",
+    "shortName": "D. BERGKAMP",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CF",
+    "positions": [
+      {
+        "position": "CF",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/owdpgqnn.png?20260720"
+  },
+  {
+    "id": "icon-p-vieira-55",
+    "name": "P. Vieira",
+    "shortName": "P. VIEIRA",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CDM",
+    "positions": [
+      {
+        "position": "CDM",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/bqwmqvnv.png?20260720"
+  },
+  {
+    "id": "icon-m-owen-56",
+    "name": "M. Owen",
+    "shortName": "M. OWEN",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/bqwmyrlq.png?20260720"
+  },
+  {
+    "id": "icon-carlos-alberto-57",
+    "name": "Carlos Alberto",
+    "shortName": "C. ALBERTO",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "RB",
+    "positions": [
+      {
+        "position": "RB",
+        "ovr": 111
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/zzozzpzv.png?20260720"
+  },
+  {
+    "id": "icon-p-nedv-d-58",
+    "name": "P. Nedvěd",
+    "shortName": "P. NEDVĚD",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "LM",
+    "positions": [
+      {
+        "position": "LM",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/zzolavqz.png?20260720"
+  },
+  {
+    "id": "icon-c-puyol-59",
+    "name": "C. Puyol",
+    "shortName": "C. PUYOL",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 111
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/vzbgdqmd.png?20260720"
+  },
+  {
+    "id": "icon-p-lahm-60",
+    "name": "P. Lahm",
+    "shortName": "P. LAHM",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "RB",
+    "positions": [
+      {
+        "position": "RB",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/mwyybmrj.png?20260720"
+  },
+  {
+    "id": "icon-k-dalglish-61",
+    "name": "K. Dalglish",
+    "shortName": "K. DALGLISH",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/rzwgzony.png?20260720"
+  },
+  {
+    "id": "icon-b-cha-62",
+    "name": "B. Cha",
+    "shortName": "B. CHA",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdwoqqn.png?20260720"
+  },
+  {
+    "id": "icon-r-van-persie-63",
+    "name": "R. van Persie",
+    "shortName": "R. VAN PERSIE",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/kmljwdvz.png?20260720"
+  },
+  {
+    "id": "icon-r-van-nistelrooy-64",
+    "name": "R. van Nistelrooy",
+    "shortName": "R. VAN NISTELROOY",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwygrvq.png?20260720"
+  },
+  {
+    "id": "icon-m-klose-65",
+    "name": "M. Klose",
+    "shortName": "M. KLOSE",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/qowydbzq.png?20260720"
+  },
+  {
+    "id": "icon-b-moore-66",
+    "name": "B. Moore",
+    "shortName": "B. MOORE",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 111
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/gbvbngnn.png?20260720"
+  },
+  {
+    "id": "icon-xabi-alonso-67",
+    "name": "Xabi Alonso",
+    "shortName": "X. ALONSO",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/yoympwqm.png?20260720"
+  },
+  {
+    "id": "icon-l-thuram-68",
+    "name": "L. Thuram",
+    "shortName": "L. THURAM",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 111
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/lmyolqrv.png?20260720"
+  },
+  {
+    "id": "icon-dunga-69",
+    "name": "Dunga",
+    "shortName": "DUNGA",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CDM",
+    "positions": [
+      {
+        "position": "CDM",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/mwywlvgv.png?20260720"
+  },
+  {
+    "id": "icon-t-kroos-70",
+    "name": "T. Kroos",
+    "shortName": "T. KROOS",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/vzbzdjpv.png?20260720"
+  },
+  {
+    "id": "icon-marcelo-71",
+    "name": "Marcelo",
+    "shortName": "MARCELO",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "LB",
+    "positions": [
+      {
+        "position": "LB",
+        "ovr": 111
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 109,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/awdwpgyd.png?20260720"
+  },
+  {
+    "id": "icon-m-kempes-72",
+    "name": "M. Kempes",
+    "shortName": "M. KEMPES",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 16,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/qowwojkj.png?20260720"
+  },
+  {
+    "id": "icon-p-rossi-73",
+    "name": "P. Rossi",
+    "shortName": "P. ROSSI",
+    "seasonCode": "ICON",
+    "ovr": 111,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 111
+      }
+    ],
+    "salary": 18,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 109,
+      "shooting": 109,
+      "passing": 108,
+      "dribbling": 110,
+      "defending": 55,
+      "physical": 107
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/rzwzjqdw.png?20260720"
+  },
+  {
+    "id": "icon-c-mak-l-l--74",
+    "name": "C. Makélélé",
+    "shortName": "C. MAKÉLÉLÉ",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CDM",
+    "positions": [
+      {
+        "position": "CDM",
+        "ovr": 110
+      }
+    ],
+    "salary": 24,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 108,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/owdpgyvl.png?20260720"
+  },
+  {
+    "id": "icon-f-lampard-75",
+    "name": "F. Lampard",
+    "shortName": "F. LAMPARD",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/pwykgqbg.png?20260720"
+  },
+  {
+    "id": "icon-s-gerrard-76",
+    "name": "S. Gerrard",
+    "shortName": "S. GERRARD",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/kmljappy.png?20260720"
+  },
+  {
+    "id": "icon-h-crespo-77",
+    "name": "H. Crespo",
+    "shortName": "H. CRESPO",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/yoymqybq.png?20260720"
+  },
+  {
+    "id": "icon-g-lineker-78",
+    "name": "G. Lineker",
+    "shortName": "G. LINEKER",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/jmqmodky.png?20260720"
+  },
+  {
+    "id": "icon-i-rush-79",
+    "name": "I. Rush",
+    "shortName": "I. RUSH",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/pwygwkvw.png?20260720"
+  },
+  {
+    "id": "icon-c-seedorf-80",
+    "name": "C. Seedorf",
+    "shortName": "C. SEEDORF",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/mwyzwgdj.png?20260720"
+  },
+  {
+    "id": "icon-r-ferdinand-81",
+    "name": "R. Ferdinand",
+    "shortName": "R. FERDINAND",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 108,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/vzbgqbbz.png?20260720"
+  },
+  {
+    "id": "icon-r-koeman-82",
+    "name": "R. Koeman",
+    "shortName": "R. KOEMAN",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 108,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/yoyoozyk.png?20260720"
+  },
+  {
+    "id": "icon-p-schmeichel-83",
+    "name": "P. Schmeichel",
+    "shortName": "P. SCHMEICHEL",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "GK",
+    "positions": [
+      {
+        "position": "GK",
+        "ovr": 110
+      }
+    ],
+    "salary": 23,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "gk",
+      "diving": 108,
+      "handling": 108,
+      "kicking": 106,
+      "reflexes": 109,
+      "speed": 65,
+      "positioning": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/bqwqzjag.png?20260720"
+  },
+  {
+    "id": "icon-l-blanc-84",
+    "name": "L. Blanc",
+    "shortName": "L. BLANC",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 108,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwqmaro.png?20260720"
+  },
+  {
+    "id": "icon-j-zanetti-85",
+    "name": "J. Zanetti",
+    "shortName": "J. ZANETTI",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "RB",
+    "positions": [
+      {
+        "position": "RB",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 108,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/qowyoprn.png?20260720"
+  },
+  {
+    "id": "icon-f-inzaghi-86",
+    "name": "F. Inzaghi",
+    "shortName": "F. INZAGHI",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwyqada.png?20260720"
+  },
+  {
+    "id": "icon-fernando-torres-87",
+    "name": "Fernando Torres",
+    "shortName": "F. TORRES",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/zzolbpjq.png?20260720"
+  },
+  {
+    "id": "icon-fernando-hierro-88",
+    "name": "Fernando Hierro",
+    "shortName": "F. HIERRO",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CB",
+    "positions": [
+      {
+        "position": "CB",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 108,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/nwdwdlyn.png?20260720"
+  },
+  {
+    "id": "icon-butrague-o-89",
+    "name": "Butragueño",
+    "shortName": "BUTRAGUEÑO",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/gbvbnlbm.png?20260720"
+  },
+  {
+    "id": "icon-h-stoichkov-90",
+    "name": "H. Stoichkov",
+    "shortName": "H. STOICHKOV",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/jmqgdaaz.png?20260720"
+  },
+  {
+    "id": "icon-park-ji-sung-91",
+    "name": "Park Ji Sung",
+    "shortName": "P. JI SUNG",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/kmljozlg.png?20260720"
+  },
+  {
+    "id": "icon-p-ech-92",
+    "name": "P. Čech",
+    "shortName": "P. ČECH",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "GK",
+    "positions": [
+      {
+        "position": "GK",
+        "ovr": 110
+      }
+    ],
+    "salary": 22,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "gk",
+      "diving": 108,
+      "handling": 108,
+      "kicking": 106,
+      "reflexes": 109,
+      "speed": 65,
+      "positioning": 108
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/nwdjvzgg.png?20260720"
+  },
+  {
+    "id": "icon-b-schweinsteiger-93",
+    "name": "B. Schweinsteiger",
+    "shortName": "B. SCHWEINSTEIGER",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/gbvvlqam.png?20260720"
+  },
+  {
+    "id": "icon-r-keane-94",
+    "name": "R. Keane",
+    "shortName": "R. KEANE",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CDM",
+    "positions": [
+      {
+        "position": "CDM",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 108,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/nwdjwpml.png?20260720"
+  },
+  {
+    "id": "icon-p-scholes-95",
+    "name": "P. Scholes",
+    "shortName": "P. SCHOLES",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/yoymojpb.png?20260720"
+  },
+  {
+    "id": "icon-m-ballack-96",
+    "name": "M. Ballack",
+    "shortName": "M. BALLACK",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/dqwynkoz.png?20260720"
+  },
+  {
+    "id": "icon-g-hagi-97",
+    "name": "G. Hagi",
+    "shortName": "G. HAGI",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CAM",
+    "positions": [
+      {
+        "position": "CAM",
+        "ovr": 110
+      }
+    ],
+    "salary": 25,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/qowoozaz.png?20260720"
+  },
+  {
+    "id": "icon-y-tour--98",
+    "name": "Y. Touré",
+    "shortName": "Y. TOURÉ",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "CM",
+    "positions": [
+      {
+        "position": "CM",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/vzbgnjgy.png?20260720"
+  },
+  {
+    "id": "icon-f-rib-ry-99",
+    "name": "F. Ribéry",
+    "shortName": "F. RIBÉRY",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "LW",
+    "positions": [
+      {
+        "position": "LW",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/jmqmgrwq.png?20260720"
+  },
+  {
+    "id": "icon-g-bale-100",
+    "name": "G. Bale",
+    "shortName": "G. BALE",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "LW",
+    "positions": [
+      {
+        "position": "LW",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/rzwzdnnv.png?20260720"
+  },
+  {
+    "id": "icon-search-101",
+    "name": "SEARCH",
+    "shortName": "SEARCH",
+    "seasonCode": "ICON",
+    "ovr": 115,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 115
+      }
+    ],
+    "salary": 28,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 113,
+      "shooting": 113,
+      "passing": 112,
+      "dribbling": 114,
+      "defending": 55,
+      "physical": 111
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://fifaaddict.com/comments/fco-users/avatars/7251_5993fc42.jpg"
+  },
+  {
+    "id": "icon-sadboyankhe-102",
+    "name": "SadboyAnKhe",
+    "shortName": "SADBOYANKHE",
+    "seasonCode": "ICON",
+    "ovr": 110,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 110
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 108,
+      "shooting": 108,
+      "passing": 107,
+      "dribbling": 109,
+      "defending": 55,
+      "physical": 106
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://fifaaddict.com/comments/fco-users/avatars/5560_94332201.jpg"
+  },
+  {
+    "id": "icon--recent-comments-103",
+    "name": "💬 Recent Comments",
+    "shortName": "\ud83d. RECENT COMMENTS",
+    "seasonCode": "ICON",
+    "ovr": 145,
+    "position": "ST",
+    "positions": [
+      {
+        "position": "ST",
+        "ovr": 145
+      }
+    ],
+    "salary": 26,
+    "club": {
+      "id": "fco-club",
+      "name": "FC Online Club",
+      "shortName": "FCO",
+      "leagueId": "fco"
+    },
+    "nation": {
+      "id": "world",
+      "name": "World",
+      "code": "WLD"
+    },
+    "stats": {
+      "kind": "outfield",
+      "pace": 143,
+      "shooting": 143,
+      "passing": 142,
+      "dribbling": 144,
+      "defending": 55,
+      "physical": 141
+    },
+    "preferredFoot": "right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "heightCm": 180,
+    "weightKg": 75,
+    "imageUrl": "https://s1.fifaaddict.com/fo4/players/jggkrmqzl.png?20260720"
+  }
+]

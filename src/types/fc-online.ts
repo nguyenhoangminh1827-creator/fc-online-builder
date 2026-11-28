@@ -51,7 +51,25 @@ export interface PositionRating {
 
 /* ───────────────────────────── Season ───────────────────────────── */
 
-export type SeasonCode = 'ICON' | 'ICONM' | '24TS' | '23UCL' | 'DC' | 'CC' | 'VN';
+export type SeasonCode =
+  // Huyền thoại & Đặc biệt bậc cao
+  | 'ICON' | 'ICONM' | 'DR' | '26DP' | 'UC' | 'SPT' | 'PTG' | 'WG' | 'FAC' | '25DP'
+  | '26FSL' | 'FSL' | 'WS' | 'DCB' | 'CH' | 'LE' | 'NO7' | 'WB' | 'GRU' | 'BLD'
+  | 'BDO' | '24EP' | 'E24' | 'CU' | 'MDL' | 'EU24' | 'LD' | 'UT' | 'JNM' | 'DC'
+  | 'FC' | '23HW' | 'CC' | 'HG' | 'RTN' | 'BWC' | 'WC22'
+  // TOTY & TOTS
+  | '26TY' | '26TYN' | '25TY' | '25TYN' | '24TY' | '24TYN' | '23TY' | '22TY' | '21TY' | '20TY' | '19TY' | '18TY'
+  | '26TS' | '25TS' | '24TS' | '23TS' | '22TS' | '21TS' | '20TS' | '19TS'
+  // CLB / ĐTQG / Mùa đặc trưng
+  | '23UCL' | 'NHD' | 'TB' | 'TT' | 'GR' | 'TC' | 'HOT' | 'SPL' | 'LN' | 'LOL'
+  | 'FA' | 'OTW' | 'E21' | 'BOE' | 'BTB' | 'CAP' | 'EBS' | 'UP' | 'MC' | 'VTR'
+  | 'MOG' | 'LH' | 'COC' | '26HR' | '25HR' | '24HR' | '23HR' | '22HR'
+  | '23NG' | '22NG' | '21NG' | '20NG' | '19NG' | '25IM' | 'NTG' | 'VLA'
+  // Mùa thường (Live)
+  | '26' | '25' | '24' | '23' | '22' | '21' | '20' | '19' | '18' | '17'
+  | '26PL' | '25PL' | '24PL' | '23PL' | '22PL' | '21PL' | '20A' | '19S' | '19A' | '18S' | '18A'
+  // Độc quyền Việt Nam
+  | '26VB' | '25VB' | '24VB' | '23VB' | '22VB' | 'VFG' | 'VNL' | 'VN' | 'PRM';
 
 export type SeasonCategory = 'icon' | 'special' | 'regular' | 'local';
 
@@ -193,7 +211,7 @@ export interface SquadSlot {
   enhancement: EnhancementLevel;
 }
 
-export const DEFAULT_SALARY_CAP = 270;
+export const DEFAULT_SALARY_CAP = 310;
 
 export interface Squad {
   formationId: FormationId;
